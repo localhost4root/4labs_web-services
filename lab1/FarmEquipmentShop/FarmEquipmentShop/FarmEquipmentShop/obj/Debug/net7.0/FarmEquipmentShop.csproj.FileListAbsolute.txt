@@ -1,0 +1,64 @@
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\appsettings.Development.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\appsettings.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.staticwebassets.runtime.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.exe
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.deps.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.runtimeconfig.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.dll
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.pdb
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.csproj.AssemblyReference.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.AssemblyInfoInputs.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.AssemblyInfo.cs
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.csproj.CoreCompileInputs.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.MvcApplicationPartsAssemblyInfo.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.RazorAssemblyInfo.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.RazorAssemblyInfo.cs
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.FarmEquipmentShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.build.FarmEquipmentShop.props
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FarmEquipmentShop.props
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FarmEquipmentShop.props
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.pack.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.build.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.development.json
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\bundle\FarmEquipmentShop.styles.css
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\projectbundle\FarmEquipmentShop.bundle.scp.css
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.dll
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\refint\FarmEquipmentShop.dll
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.pdb
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.genruntimeconfig.cache
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\ref\FarmEquipmentShop.dll
+D:\University\ПВС\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\libman.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\appsettings.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\libman.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.staticwebassets.runtime.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.exe
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.deps.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.runtimeconfig.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.dll
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\bin\Debug\net7.0\FarmEquipmentShop.pdb
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.csproj.AssemblyReference.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.AssemblyInfoInputs.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.AssemblyInfo.cs
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.RazorAssemblyInfo.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.RazorAssemblyInfo.cs
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.FarmEquipmentShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.build.FarmEquipmentShop.props
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FarmEquipmentShop.props
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FarmEquipmentShop.props
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\bundle\FarmEquipmentShop.styles.css
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\scopedcss\projectbundle\FarmEquipmentShop.bundle.scp.css
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.dll
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\refint\FarmEquipmentShop.dll
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.pdb
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\FarmEquipmentShop.genruntimeconfig.cache
+C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\obj\Debug\net7.0\ref\FarmEquipmentShop.dll
