@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Localhost\\Downloads\\Telegram Desktop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop.csproj",
+      "projectUniqueName": "C:\\Users\\Localhost\\Desktop\\univer\\web-services\\projects\\lab1\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop.csproj",
       "projectName": "FarmEquipmentShop",
-      "projectPath": "C:\\Users\\Localhost\\Downloads\\Telegram Desktop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop.csproj",
+      "projectPath": "C:\\Users\\Localhost\\Desktop\\univer\\web-services\\projects\\lab1\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop.csproj",
       "packagesPath": "C:\\Users\\Localhost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Localhost\\Downloads\\Telegram Desktop\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\obj\\",
+      "outputPath": "C:\\Users\\Localhost\\Desktop\\univer\\web-services\\projects\\lab1\\FarmEquipmentShop\\FarmEquipmentShop\\FarmEquipmentShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

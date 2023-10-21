@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FarmEquipmentShop
 build_property.RootNamespace = FarmEquipmentShop
-build_property.ProjectDir = C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\
+build_property.ProjectDir = C:\Users\Localhost\Desktop\univer\web-services\projects\lab1\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Localhost\Downloads\Telegram Desktop\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop
+build_property.MSBuildProjectDirectory = C:\Users\Localhost\Desktop\univer\web-services\projects\lab1\FarmEquipmentShop\FarmEquipmentShop\FarmEquipmentShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Home/Index.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Home/Privacy.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/Error.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/_ViewImports.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/_ViewStart.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Localhost/Downloads/Telegram Desktop/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/_Layout.cshtml]
+[C:/Users/Localhost/Desktop/univer/web-services/projects/lab1/FarmEquipmentShop/FarmEquipmentShop/FarmEquipmentShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9k6j1kaa4p

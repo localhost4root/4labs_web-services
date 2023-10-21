@@ -3,9 +3,12 @@
     "",
     "\\FarmEquipmentShop",
     "\\FarmEquipmentShop\\FarmEquipmentShop",
+    "\\FarmEquipmentShop\\FarmEquipmentShop\\Controllers",
+    "\\FarmEquipmentShop\\FarmEquipmentShop\\Views",
+    "\\FarmEquipmentShop\\FarmEquipmentShop\\Views\\Home",
     "\\FarmEquipmentShop\\FarmEquipmentShop\\wwwroot",
     "\\FarmEquipmentShop\\FarmEquipmentShop\\wwwroot\\css"
   ],
-  "SelectedNode": "\\FarmEquipmentShop\\FarmEquipmentShop\\wwwroot\\css\\site.css",
+  "SelectedNode": "\\FarmEquipmentShop\\FarmEquipmentShop\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
