@@ -16,7 +16,7 @@ namespace FarmEquipmentShop.Controllers
         [HttpPost("email/send")]
         public IActionResult Send(EmailDTO emailDTO)
         {
-            _emailSenderService.SendEmail(emailDTO.Email, "Test subject", "Test content");
+            //_emailSenderService.SendEmail(emailDTO.Email, "Test subject", "Test content");
 
             return Redirect("~/");
         }
