@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.Configure<MailSettings>(builder.Configuration.GetSection(nameof(MailSettings)));
 builder.Services.AddScoped<IEmailSenderService, EmailSenderService>();
+builder.Services.AddScoped<IFileService, FileService>();
 
 var app = builder.Build();
 
@@ -57,7 +58,7 @@ app.Use((context, next) =>
     }
     else
     {
-        using (FileStream fileStream = new FileStream(logingPath, FileMode.Append, FileAccess.Write))
+        FileStream fileStream = new FileStream(logingPath, FileMode.Append, FileAccess.Write);
         using (StreamWriter streamWr = new StreamWriter(fileStream))
         {
             var requestUrl = context.Request.GetDisplayUrl();

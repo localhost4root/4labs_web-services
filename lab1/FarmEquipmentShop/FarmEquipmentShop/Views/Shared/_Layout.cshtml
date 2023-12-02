@@ -1,6 +1,4 @@
-﻿@model FarmEquipmentShop.DTOs.EmailDTO
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -23,6 +21,7 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#!">About</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="File" asp-action="Index">Files</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -43,35 +42,13 @@
             </div>
         </div>
     </nav>
-    <!-- Header-->
-    <header class="bg-dark py-5">
-        <div class="container px-4 px-lg-5 my-5">
-            <div class="text-center text-white">
-                <h1 class="display-4 fw-bolder">Shop in style</h1>
-                <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
-            </div>
-        </div>
-    </header>
-    <div class="container">
+  
+    <div>
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <!-- Footer-->
-    <footer class="py-5 bg-dark">
-
-        @using (Html.BeginForm("Send", "Email", FormMethod.Post, new { @class="form-signup", id="contactForm" }))
-        {
-            <div class="container-sm col align-self-center">
-                @Html.TextBoxFor(model => model.Email, new { @class="form-control", @type="email", @placeholder="Enter email address..." })
-                @Html.ValidationMessageFor(model => model.Email)
-                <button class="btn btn-outline-light align-self-end" type="submit">Contact me!</button>
-            </div>
-        }
-
-        <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
-    </footer>
     <!-- Core theme JS-->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

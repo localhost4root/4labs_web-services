@@ -1,6 +1,17 @@
-﻿<!DOCTYPE html>
+﻿@model FarmEquipmentShop.DTOs.EmailDTO
+
+<!DOCTYPE html>
 <html lang="en">
     <body>
+        <!-- Header-->
+        <header class="bg-dark py-5">
+            <div class="container px-4 px-lg-5 my-5">
+                <div class="text-center text-white">
+                    <h1 class="display-4 fw-bolder">Shop in style</h1>
+                    <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+                </div>
+            </div>
+        </header>
         <!-- Section-->
         <section class="py-5">
             <div class="container px-4 px-lg-5 mt-5">
@@ -204,5 +215,20 @@
                 </div>
             </div>
         </section>
+
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+
+            @using (Html.BeginForm("Send", "Email", FormMethod.Post, new { @class = "form-signup", id = "contactForm" }))
+            {
+                <div class="container-sm col align-self-center">
+                    @Html.TextBoxFor(model => model.Email, new { @class="form-control", @type="email", @placeholder="Enter email address..." })
+                    @Html.ValidationMessageFor(model => model.Email)
+                    <button class="btn btn-outline-light align-self-end" type="submit">Contact me!</button>
+                </div>
+            }
+
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+        </footer>
     </body>
 </html>
