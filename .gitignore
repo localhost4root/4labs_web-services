@@ -80,3 +80,4 @@ _[Ss]cripts
 *.dot[Cc]over
 lab1/FarmEquipmentShop/FarmEquipmentShop/Views/File/
 lab1/FarmEquipmentShop/FarmEquipmentShop/wwwroot/Files/
+*.vsidx
