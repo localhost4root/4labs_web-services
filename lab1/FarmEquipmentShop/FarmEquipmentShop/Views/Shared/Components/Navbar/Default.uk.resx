@@ -120,6 +120,9 @@
   <data name="About" xml:space="preserve">
     <value>Про нас</value>
   </data>
+  <data name="Account" xml:space="preserve">
+    <value>Обліковий запис</value>
+  </data>
   <data name="AllProducts" xml:space="preserve">
     <value>Усі товари</value>
   </data>

@@ -1,0 +1,11 @@
+﻿@model ApplicationErrorModel
+
+<div class="container mt-5">
+    <h1>Errors:</h1>
+
+    @foreach(var error in Model.Errors)
+    {
+        <p>@error</p>
+    }
+
+</div>

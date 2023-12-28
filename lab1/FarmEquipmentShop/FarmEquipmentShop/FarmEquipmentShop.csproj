@@ -17,6 +17,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\Account\index.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>index.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Account\index.uk.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>index.uk.resx</DependentUpon>
+    </Compile>
     <Compile Update="Views\File\Index.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -60,6 +74,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Views\Account\index.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>index.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Account\index.uk.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>index.uk.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\File\Index.resx">
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
       <Generator>PublicResXFileCodeGenerator</Generator>

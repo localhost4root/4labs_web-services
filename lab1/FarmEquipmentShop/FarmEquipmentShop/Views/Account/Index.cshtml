@@ -1,0 +1,72 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+
+@model AccountModel
+
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Name"] = Localizer["Name"];
+    ViewData["Lastname"] = Localizer["Lastname"];
+    ViewData["Middlename"] = Localizer["Middlename"];
+    ViewData["Email"] = Localizer["Email"];
+    ViewData["Address"] = Localizer["Address"];
+    ViewData["City"] = Localizer["City"];
+    ViewData["Phone"] = Localizer["Phone"];
+    ViewData["SaveAccountInfo"] = Localizer["SaveAccountInfo"];
+    ViewData["EnterAccountInfo"] = Localizer["EnterAccountInfo"];
+}
+
+<div class="container mt-5">
+    @using (Html.BeginForm("Save", "Account", FormMethod.Post, new { @class = "container" })) 
+    {
+        <div class="container row">
+            <h1>@ViewData["EnterAccountInfo"]</h1>
+        </div>
+
+        <div class="container row mt-3">
+            <div class="col">
+                <p>@ViewData["Name"]</p>
+                @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+            </div>
+
+            <div class="col">
+                <p>@ViewData["Lastname"]</p>
+                @Html.TextBoxFor(model => model.Lastname, new { @class = "form-control" })
+            </div>
+
+            <div class="col">
+                <p>@ViewData["Middlename"]</p>
+                @Html.TextBoxFor(model => model.Middlename, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="container row mt-3">
+            <div class="col">
+                <p>@ViewData["Email"]</p>
+                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @type = "email" })
+            </div>
+
+            <div class="col">   
+                <p>@ViewData["Phone"]</p>
+                @Html.TextBoxFor(model => model.Phone, new { @class = "form-control", @type = "tel", @pattern = "+[0-9]{3}-[0-9]{2}-[0-9]{3}-[0-9]{2}-[0-9]{2}" })
+            </div>
+        </div>
+
+        <div class="container row mt-3">
+            <div class="col">
+                <p>@ViewData["Address"]</p>
+                @Html.TextBoxFor(model => model.Address, new { @class = "form-control" })
+            </div>
+
+            <div class="col">
+                <p>@ViewData["City"]</p>
+                @Html.TextBoxFor(model => model.City, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="container row mt-3">
+            <div class="col">
+                <button class="btn btn-primary" id="submitButton" type="submit">@ViewData["SaveAccountInfo"]</button>
+            </div>
+        </div>
+    }
+</div>

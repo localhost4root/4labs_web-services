@@ -117,34 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value>About</value>
+  <data name="Address" xml:space="preserve">
+    <value>Address</value>
   </data>
-  <data name="Account" xml:space="preserve">
-    <value>Account</value>
+  <data name="City" xml:space="preserve">
+    <value>City</value>
   </data>
-  <data name="AllProducts" xml:space="preserve">
-    <value>All products</value>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
   </data>
-  <data name="Cart" xml:space="preserve">
-    <value>Cart</value>
+  <data name="EnterAccountInfo" xml:space="preserve">
+    <value>Enter account info</value>
   </data>
-  <data name="Files" xml:space="preserve">
-    <value>Files</value>
+  <data name="Lastname" xml:space="preserve">
+    <value>Lastname</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
+  <data name="Middlename" xml:space="preserve">
+    <value>Middlename</value>
   </data>
-  <data name="NewArrivals" xml:space="preserve">
-    <value>New arrivals</value>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
   </data>
-  <data name="PopularItems" xml:space="preserve">
-    <value>Popular items</value>
+  <data name="Phone" xml:space="preserve">
+    <value>Phone</value>
   </data>
-  <data name="Shop" xml:space="preserve">
-    <value>Shop</value>
-  </data>
-  <data name="Title" xml:space="preserve">
-    <value>Farm equipment shop</value>
+  <data name="SaveAccountInfo" xml:space="preserve">
+    <value>Save account info</value>
   </data>
 </root>

@@ -117,34 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value>About</value>
+  <data name="Address" xml:space="preserve">
+    <value>Адреса</value>
   </data>
-  <data name="Account" xml:space="preserve">
-    <value>Account</value>
+  <data name="City" xml:space="preserve">
+    <value>Місто</value>
   </data>
-  <data name="AllProducts" xml:space="preserve">
-    <value>All products</value>
+  <data name="Email" xml:space="preserve">
+    <value>Електронна пошта</value>
   </data>
-  <data name="Cart" xml:space="preserve">
-    <value>Cart</value>
+  <data name="EnterAccountInfo" xml:space="preserve">
+    <value>Введення відомостей облікового запису</value>
   </data>
-  <data name="Files" xml:space="preserve">
-    <value>Files</value>
+  <data name="Lastname" xml:space="preserve">
+    <value>Прізвище</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
+  <data name="Middlename" xml:space="preserve">
+    <value>По-батькові</value>
   </data>
-  <data name="NewArrivals" xml:space="preserve">
-    <value>New arrivals</value>
+  <data name="Name" xml:space="preserve">
+    <value>Ім'я</value>
   </data>
-  <data name="PopularItems" xml:space="preserve">
-    <value>Popular items</value>
+  <data name="Phone" xml:space="preserve">
+    <value>Номер телефону</value>
   </data>
-  <data name="Shop" xml:space="preserve">
-    <value>Shop</value>
-  </data>
-  <data name="Title" xml:space="preserve">
-    <value>Farm equipment shop</value>
+  <data name="SaveAccountInfo" xml:space="preserve">
+    <value>Зберегти відомості про акаунт</value>
   </data>
 </root>

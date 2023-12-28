@@ -1,4 +1,7 @@
+using FarmEquipmentShop.Models;
 using FarmEquipmentShop.Services;
+using FarmEquipmentShop.Validation;
+using FluentValidation;
 using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Localization;
 using System.Globalization;
@@ -24,6 +27,8 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
 builder.Services.Configure<MailSettings>(builder.Configuration.GetSection(nameof(MailSettings)));
 builder.Services.AddScoped<IEmailSenderService, EmailSenderService>();
 builder.Services.AddScoped<IFileService, FileService>();
+
+builder.Services.AddScoped<IValidator<AccountModel>, AccountValidator>();
 
 var app = builder.Build();
 
